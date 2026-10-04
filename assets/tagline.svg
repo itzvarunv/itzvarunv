@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="328" height="60" viewBox="0 0 328 60">
+<style>text{font:32px 'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace;fill:#2e9bff}
+#c{width:288px;animation:type 1.6s steps(14) 1s backwards}@keyframes type{from{width:0}to{width:288px}}
+#k{fill:#2e9bff;animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+#kg{transform:translateX(274px);animation:mv 1.6s steps(14) 1s backwards}@keyframes mv{from{transform:translateX(0)}to{transform:translateX(274px)}}</style>
+<defs><clipPath id="cp"><rect id="c" x="20" y="0" height="60" width="288"/></clipPath></defs>
+<text x="20" y="42" clip-path="url(#cp)">&quot;Just for fun&quot;</text>
+<g id="kg"><rect id="k" x="22" y="14" width="3" height="34"/></g></svg>

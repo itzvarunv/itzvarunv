@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="250" viewBox="0 0 840 250">
+<style>text{font:22px 'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace}
+.p{fill:#4db8ff}.d{fill:#8a8a8a}.w{fill:#e8e8e8}
+.l1{animation:h .01s 0.6s backwards}.l2{animation:h .01s 1.4s backwards}.l3{animation:h .01s 2.2s backwards}.l4{animation:h .01s 3s backwards}
+@keyframes s{to{opacity:1}}@keyframes h{from{opacity:0}to{opacity:0}}
+#cur{fill:#2e9bff;animation:h .01s 3.2s backwards, bl 1s steps(1) 3.2s infinite}@keyframes bl{50%{opacity:0}}</style>
+<rect width="840" height="250" rx="12" fill="#070b12" stroke="#12304d"/>
+<circle cx="30" cy="28" r="7" fill="#ff5f57"/><circle cx="54" cy="28" r="7" fill="#febc2e"/><circle cx="78" cy="28" r="7" fill="#28c840"/>
+<text x="30" y="90" class="l1"><tspan class="p">VARUN@github.com</tspan><tspan class="d">:~$ </tspan><tspan class="w">whoami</tspan></text>
+<text x="30" y="124" class="w l2">VARUN V</text>
+<text x="30" y="170" class="l3"><tspan class="p">VARUN@github.com</tspan><tspan class="d">:~$ </tspan><tspan class="w">echo $MOTTO</tspan></text>
+<text x="30" y="204" class="w l4">Just for fun.</text>
+<rect id="cur" x="30" y="216" width="13" height="24"/></svg>
